@@ -4,7 +4,8 @@
   "description": "Ce site est un site vitrine pour le restaurant Quai Antique",
   "main": "index.js",
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
   },
   "devDependencies": {},
   "scripts": {
